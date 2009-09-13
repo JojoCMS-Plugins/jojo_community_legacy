@@ -1,0 +1,23 @@
+#register-form label {
+  float: left;
+  width: 150px;
+  display: block;
+  text-align: right;
+  margin-right: 5px;
+  margin-bottom: 3px;
+}
+
+#register-form input {
+  float: left;
+  margin-bottom: 3px;
+}
+
+#register-form select, #register-form textarea {
+  float: left;
+  margin-bottom: 3px;
+}
+
+#register-form br {
+  clear: left;
+  margin-bottom: 3px;
+}
